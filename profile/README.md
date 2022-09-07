@@ -1,6 +1,6 @@
-## ACCESS-NRI Community Space
+## ACCESS Community Hub
 
-This GitHub organisation is where members of the ACCESS-NRI Community can contribute documentation
+This GitHub organisation is where members of the ACCESS Community can contribute documentation
 and other related material. It is a shared space to enable, coordinate and foster collaboration.
 
 None of the repositories contained in this Organisation are directly supported by the 
