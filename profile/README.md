@@ -1,4 +1,4 @@
-## ACCESS Hive
+## ACCESS Community Hub
 
 This GitHub organisation is where members of the ACCESS Community can contribute documentation
 and other related material. It is a shared space to enable, coordinate and foster collaboration.
