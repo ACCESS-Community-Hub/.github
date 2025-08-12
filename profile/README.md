@@ -9,4 +9,4 @@ for the Community. Material supported directly by the ACCESS-NRI is hosted on th
 [ACCESS-NRI GitHub organisation](https://github.com/ACCESS-NRI).
 
 ACCESS-NRI retains formal administrative control of this organisation. Access is given to ACCESS-NRI staff and community 
-members who wish to contribute where the access procedure is described in the README of each repository.
+members who wish to contribute. The procedure to request access should be described in the README of each repository.
