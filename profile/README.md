@@ -14,6 +14,6 @@ procedure to request access should be described in the README of each
 repository.
 
 Community members who wish to host a repository in this organisation should read
-our [repository administration policy](https://github.com/ACCESS-Community-Hub/.github/README.md) and create a new
+our [repository administration policy](https://github.com/ACCESS-Community-Hub/.github/blob/main/README.md) and create a new
 [issue](https://github.com/ACCESS-Community-Hub/.github/issues/new/choose)
 requesting the creation of a new repository.
